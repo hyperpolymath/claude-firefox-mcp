@@ -1,5 +1,10 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
+image:https://img.shields.io/badge/license-PMPL--1.0-blue.svg[License,link="https://github.com/hyperpolymath/palimpsest-license"]
+
+// SPDX-License-Identifier: PMPL-1.0
 = Claude Firefox MCP
+
+
+
 :toc:
 :icons: font
 
@@ -160,12 +165,12 @@ The extension auto-reconnects to the MCP server. Click the extension icon to man
 |Proprietary
 
 |License
-|AGPL-3.0-or-later
+|PMPL-1.0-or-later
 |Proprietary
 |===
 
 == License
 
-AGPL-3.0-or-later
+PMPL-1.0-or-later
 
 This is an independent project. Not affiliated with Anthropic or Mozilla.
